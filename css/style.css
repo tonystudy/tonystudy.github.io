@@ -1718,9 +1718,10 @@ section.comment {
   transition: color 0.25s;
 }
 footer {
-  margin-top: 1em;
   background: #1f1f1f;
-  padding: 0 2% 0.5em;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 #footer {
   width: 95%;
